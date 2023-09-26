@@ -27,7 +27,7 @@ public class Main
                 }
                 else
                 {
-                    System.out.println("The first number " + firstNum + " and the second number " + secondNum + " are equal");
+                    System.out.println("The first number " + firstNum + " and the second number " + secondNum + " are equals");
                 }
             }
             else
